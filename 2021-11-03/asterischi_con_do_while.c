@@ -12,8 +12,10 @@ int main() {
 
         while (contatore <= numero) {
             printf("*");
+
             if (contatore == numero)
                 printf("\n");
+
             contatore++;
         }
     } while (numero != 0);
