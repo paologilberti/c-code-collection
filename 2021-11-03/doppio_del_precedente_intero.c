@@ -19,7 +19,7 @@ int main() {
             scanf("%d", &numero2);
         }
     } else
-        printf("Errore: sequenza vuota\n");
+        printf("\nErrore: sequenza vuota\n");
 
     return 0;
 }
