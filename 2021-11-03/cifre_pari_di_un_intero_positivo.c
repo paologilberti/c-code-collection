@@ -20,9 +20,9 @@ int main() {
     }
 
     if (contatore == 1)
-        printf("Il numero inserito ha %d cifra pari\n", contatore);
+        printf("\nIl numero inserito ha %d cifra pari\n", contatore);
     else
-        printf("Il numero inserito ha %d cifre pari\n", contatore);
+        printf("\nIl numero inserito ha %d cifre pari\n", contatore);
 
     return 0;
 }
