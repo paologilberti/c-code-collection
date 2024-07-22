@@ -21,8 +21,10 @@ int main() {
 
     while (contatore < quantita) {
         scanf("%d", &numero);
+
         if (numero > massimo)
             massimo = numero;
+
         contatore++;
     }
 
