@@ -8,6 +8,7 @@ int main() {
 
     if (voto >= 18) {
         printf("\nPromosso");
+
         if (voto >= 31)
             printf(" con lode");
     } else
