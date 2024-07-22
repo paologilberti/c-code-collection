@@ -4,7 +4,7 @@ int main() {
     int numero;
     int contatore = 1;
 
-    printf("Inserisci un numero intero: ");
+    printf("Inserisci un numero intero positivo: ");
     scanf("%d", &numero);
 
     printf("\n");
