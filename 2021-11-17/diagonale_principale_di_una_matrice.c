@@ -13,7 +13,7 @@ int main() {
         for (j = 0; j < DIMENSIONE; j++)
             scanf("%d", &matrice[i][j]);
 
-    printf("\n");
+    printf("\nDiagonale principale: ");
 
     for (i = 0; i < DIMENSIONE; i++)
         printf("%d ", matrice[i][i]);
