@@ -9,7 +9,7 @@ int main() {
     int j;
 
     printf("Inserisci un numero intero: ");
-    scan&("%d", &numero);
+    scanf("%d", &numero);
 
     for (i = 0; i < DIMENSIONE; i++)
         for (j = 0; j < DIMENSIONE; j++)
