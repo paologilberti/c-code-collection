@@ -23,6 +23,7 @@ int main() {
     for (i = 0; i < DIMENSIONE; i++) {
         for (j = 0; j < DIMENSIONE; j++)
             printf("%4d", matrice[i][j]);
+
         printf("\n");
     }
     
